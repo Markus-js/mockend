@@ -29,14 +29,24 @@
             "companyId": "2"
         }
     ],
-    "companies": [
+    "posts": [
         {
-            "id":"1",
-            "name":"Apple"
-        },
-        {
-            "id":"2",
-            "name":"Microsoft"
-        }
+            "userId": 1,
+            "id": 1,
+            "title": "title",
+            "body": "body indhold"
+          },
+          {
+            "userId": 2,
+            "id": 2,
+            "title": "title",
+            "body": "body indhold"
+          },
+          {
+            "userId": 1,
+            "id": 3,
+            "title": "title",
+            "body": "body indhold"
+          }
     ]
 }
